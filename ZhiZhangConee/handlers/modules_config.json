@@ -1,0 +1,23 @@
+[
+    {"module": "plugins.ZhiZhangConee.mods.shutdwn.Shutdown", "method": "shutdown", "needs_api": false, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.idea.Idea", "method": "main", "needs_api": false, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.keywrd_res.KeywrdRes", "method": "keywores", "needs_api": false, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.invel_color.InveColor", "method": "invecolor", "needs_api": true, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.zepp.Zepp", "method": "zepp", "needs_api": false, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.weather.Weather", "method": "weather", "needs_api": false, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.rock_ps.RockPs", "method": "rock_ps", "needs_api": true, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.dawo.DaWon", "method": "dawon", "needs_api": true, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.support_me.SupportMe", "method": "support_me", "needs_api": true, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.mute.Mute", "method": "mute", "needs_api": true, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.caishuzi.CaiShuZi", "method": "caishuzi", "needs_api": true, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.guanli.GuanLiYuan", "method": "guanliyuan", "needs_api": true, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.cunqian.Cunqian", "method": "cunqian", "needs_api": false, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.ai_yuying.AiYuying", "method": "ai_yuying", "needs_api": true, "special_init": true},
+    {"module": "plugins.ZhiZhangConee.mods.ai_liaotian.Ai_Liaotian", "method": "ai_liaotian", "needs_api": false, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.duichen.Duichen", "method": "duichen", "needs_api": true, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.suijimeinv.SuijiMeinv", "method": "main", "needs_api": false, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.age_setu.AgeSetu", "method": "main", "needs_api": false, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.touxiangbailqingbaoanbiao.TouxiangBaiLiaoQingBaoAnBiao", "method": "main", "needs_api": true, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.fudu.Fudu", "method": "main", "needs_api": true, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.wxmod.WxMod", "method": "main", "needs_api": true, "special_init": false}
+]

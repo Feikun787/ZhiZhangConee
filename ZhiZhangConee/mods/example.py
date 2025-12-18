@@ -1,0 +1,2 @@
+#python:
+print(7)
