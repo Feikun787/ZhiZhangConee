@@ -1,4 +1,4 @@
-# 智障机器人(ZhiZhangConee)功能介绍
+# 纸张工具(ZhiZhangConee)功能介绍
 
 ## 项目概述
 这是一个基于 `ncatbot` 框架开发的多功能QQ机器人插件，提供丰富的娱乐和实用功能。
