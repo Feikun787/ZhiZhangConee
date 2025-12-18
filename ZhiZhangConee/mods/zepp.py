@@ -24,4 +24,3 @@ class Zepp:
         else:
             b = f"错误码：{a[1].split(',')[0]}"
         return b
-    #https://api.jiuhunwl.cn/api/yd_api.php?username=3451263590@qq.com&password=333822lclzy&step={step}
