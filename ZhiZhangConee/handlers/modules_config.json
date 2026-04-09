@@ -19,5 +19,7 @@
     {"module": "plugins.ZhiZhangConee.mods.age_setu.AgeSetu", "method": "main", "needs_api": false, "special_init": false},
     {"module": "plugins.ZhiZhangConee.mods.touxiangbailqingbaoanbiao.TouxiangBaiLiaoQingBaoAnBiao", "method": "main", "needs_api": true, "special_init": false},
     {"module": "plugins.ZhiZhangConee.mods.fudu.Fudu", "method": "main", "needs_api": true, "special_init": false},
-    {"module": "plugins.ZhiZhangConee.mods.wxmod.WxMod", "method": "main", "needs_api": true, "special_init": false}
-]
+    {"module": "plugins.ZhiZhangConee.mods.wxmod.WxMod", "method": "main", "needs_api": true, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.jietu.Jietu", "method": "main", "needs_api": false, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.yuyin_hecheng.YuyinHecheng", "method": "main", "needs_api": false, "special_init": false},
+    {"module": "plugins.ZhiZhangConee.mods.diange.Diange", "method": "main", "needs_api": false, "special_init": false}
